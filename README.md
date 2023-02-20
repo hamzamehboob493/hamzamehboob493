@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on OpenSource
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzamehboob493)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamehboob493)](https://github.com/anuraghazra/github-readme-stats)
